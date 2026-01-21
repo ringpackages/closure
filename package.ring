@@ -24,8 +24,8 @@ aPackageInfo = [
 		"main.ring"
 	],
 	:ringfolderfiles = 	[
-		"bin/load/Closure.ring",
-		"libraries/closure/Closure.ring",
+		"bin/load/closure.ring",
+		"libraries/closure/closure.ring",
 		"samples/UsingClosure/test1.ring"
 	],
 	:windowsfiles = 	[
